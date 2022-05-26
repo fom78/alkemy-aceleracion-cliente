@@ -18,7 +18,7 @@ Repositorios originales de trabajo, alli pueden ver todos los commits, PR y el a
 
 Link a la aplicacion desplegada en vercel:
 
-[Somos Mas Demo]()
+[Somos Mas Demo](https://somosmas-ten.vercel.app/)
 ## La demo day !!
 
 https://youtu.be/n9GTFsK12nM
